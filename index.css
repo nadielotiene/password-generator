@@ -1,0 +1,59 @@
+html, body {
+    background-color: #1C1C1C;
+    height: 100vh;
+    font-family: 'Inter', sans-serif;
+    /* width: 100%; */
+}
+
+div {
+    background-color: #1F2937;
+    border-radius: 3px;
+    margin: 5%;
+    text-align: left;
+    padding: 10%
+}
+
+#title {
+    color: #FFF;
+    font-family: 'Karla', sans-serif;
+    font-size: 40px;
+}
+
+#second-title-color {
+    color: #4ADF86;
+}
+
+#slogan {
+    color: #D5D4D8;
+    font-size: 20px;
+}
+
+#btn {
+    background-color: #10B981;
+    border: 0;
+    border-radius: 3px;
+    color: #FFF;
+    font-family: 'Inter', sans-serif;
+    margin: 20px 10px 20px 0;
+    padding: 10px 16px;
+}
+
+#btn:active {
+    background-color: #0D986A;
+}
+
+hr {
+    border: 1px solid;
+    border-color: #2F3E53;
+}
+
+#pass-el-1, #pass-el-2 {
+    background-color: #273549;
+    border: 0;
+    border-radius: 3px;
+    color: #55F991;
+    font-family: 'Inter', sans-serif;
+    height: 15px;
+    margin: 15px 10px 8px 0;
+    padding: 10px 16px;
+}
